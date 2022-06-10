@@ -103,6 +103,7 @@ applogo/
 
 ### 临时文件 ###
 out/
+target/
 
 ### windows ###
 Thumbs.db
