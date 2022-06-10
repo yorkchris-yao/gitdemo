@@ -8,5 +8,7 @@ public class Demo2 {
         System.out.println("你好，hot-fix第四次修改");
         System.out.println("你好，hot-fix第五次修改");
         System.out.println("master -test");
+        System.out.println("你好，hot-fix第六次修改");
+
     }
 }
